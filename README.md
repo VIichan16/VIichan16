@@ -1,6 +1,5 @@
 <div align ="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld&fontSize=90" />
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
