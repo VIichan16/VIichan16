@@ -13,6 +13,6 @@
 	
   <h3 align="center">🌈 Follow Me 🌈</h3>
   <p align="center">
-  <a href="https://www.instagram.com/_sungnam/"><img src="https://img.shields.io/badge/Instagram-   E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="https://www.instagram.com/_sungnam/"><img src="https://img.shields.io/badge/Instagram-   E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_sungnam/"/></a>&nbsp
   </p>
 </div>
