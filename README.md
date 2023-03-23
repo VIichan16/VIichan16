@@ -19,6 +19,10 @@
 </div>
 
 
+</br>
+</br>
+
+
 <div align ="center">
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
 
