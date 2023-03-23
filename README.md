@@ -20,9 +20,8 @@
 
 </div>
 
-<div align ="center">
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
-</div>
-<div align ="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIichan16&show_icons=true&theme=radical)
+
