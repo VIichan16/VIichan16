@@ -22,6 +22,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIichan16&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIichan16&hide_progress=true)](https://github.com/VIichan16/github-readme-stats)
 
