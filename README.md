@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 	
   <h3 align="center"> 🔨 Tool 🔨 </h3>
- <img src="https://img.shields.io/badge/IntelliJ IDEA-61DAFB?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 	
   <h3 align="center">🌈 Follow Me 🌈</h3>
