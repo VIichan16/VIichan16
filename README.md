@@ -21,10 +21,10 @@
 
 </br>
 </br>
-<div align = "center" display="inline">
+<span align="center>
 	<img src="https://blogfiles.pstatic.net/MjAxOTEwMjJfMjkw/MDAxNTcxNzE4MTAwMzQ5.MS2Kh7ml6A0trFk3Jvli8Twoj-wiDZmw3_G4ygA8haMg.-kW1roYI_pa7RuQD0kp-1e-b_ECT6qWIL2cIcBDYVi4g.JPEG.wonch888/EDxNdgLUEAELSyF.jpg" width="200">
 	
-</div>
+</span>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
