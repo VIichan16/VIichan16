@@ -26,6 +26,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukb5366)](https://solved.ac/ryukb5366/)
 
-<img src="https://cafe.naver.com/common/storyphoto/viewer.html?src=https%3A%2F%2Fcafeptthumb-phinf.pstatic.net%2FMjAxNjEwMjZfMjMy%2FMDAxNDc3NDQzOTYzODA5.FjB4QR6rSRnqLn8PrkSrSLsFspARBa-gFvvrpYm7miYg._DbekAItsrAWd2PkG-7_h61s7YUUj5ljgDkCYCmEP4og.JPEG.sbscjy%2F%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8.jpg%3Ftype%3Dw1600">
+<img src="https://blogfiles.pstatic.net/MjAxOTEwMjJfMjkw/MDAxNTcxNzE4MTAwMzQ5.MS2Kh7ml6A0trFk3Jvli8Twoj-wiDZmw3_G4ygA8haMg.-kW1roYI_pa7RuQD0kp-1e-b_ECT6qWIL2cIcBDYVi4g.JPEG.wonch888/EDxNdgLUEAELSyF.jpg">
 
 
