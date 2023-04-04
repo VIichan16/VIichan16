@@ -5,7 +5,7 @@
 
 <div align="center">
 	<img src="https://blogfiles.pstatic.net/MjAxOTEwMjJfMjkw/MDAxNTcxNzE4MTAwMzQ5.MS2Kh7ml6A0trFk3Jvli8Twoj-wiDZmw3_G4ygA8haMg.-kW1roYI_pa7RuQD0kp-1e-b_ECT6qWIL2cIcBDYVi4g.JPEG.wonch888/EDxNdgLUEAELSyF.jpg" width="300">
-	
+	<img src="http://down.humoruniv.com/hwiparambbs/data/comment/2022/06/r_r839d31001_f3664c955b49a3f787d542b3256120dc9486ae1a.gif"/>
 	
 </div>
 
