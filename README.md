@@ -27,10 +27,9 @@
   <p align="center">
   <a href="https://www.instagram.com/_sungnam/"><img src="https://img.shields.io/badge/Instagram-ff3399?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_sungnam/"/></a>
   </p>
-</br>
 </div>
 
-</br>
+
 
 
 
