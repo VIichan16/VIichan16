@@ -22,7 +22,7 @@
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 	
-  <h3 align="center"> 🎸 etc. 🎸 </h3>
+  <h3 align="center"> 🎸 Etc 🎸 </h3>
  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
 
