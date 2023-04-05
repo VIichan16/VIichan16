@@ -33,8 +33,7 @@
 </br>
 
 
-<br>
-<br>
+
 
 <div align="center">	
 	<a href="https://solved.ac/profile/ryukb5366">
