@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 	
   <h3 align="center"> 🎸 etc. 🎸 </h3>
- <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=After Effects&logoColor=white">
+ <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
 
 	
   <h3 align="center">🌈 Follow Me 🌈</h3>
