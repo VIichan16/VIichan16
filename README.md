@@ -1,200 +1,162 @@
-# ✦ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝔀𝓸𝓻𝓵𝓭 ✦
+# ⛩️ ようこそ、Sungnam の GitHub へ。
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:30105E,100:00E5FF&height=220&section=header&text=SUNGNAM.exe&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=The%20World%20Is%20Made%20Of%20Code%20%3C3&descSize=16&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:7F1D1D&height=220&section=header&text=SUNGNAM.exe&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CODE%20%7C%20ANIME%20%7C%20JAPANESE%20CULTURE&descSize=16&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%E3%80%8C+Initializing+Otaku+Developer+System...+%E3%80%8D;%E2%9C%A6+Computer+Science+%26+Anime+Enthusiast+%E2%9C%A6;System.out.println(%22Hello%2C+World!%22)%3B;%E2%9C%A7+Reality+is+just+another+simulation+%E2%9C%A7;HP%3A+100%25+%7C+MANA%3A+99%25+%7C+SLEEP%3A+0%25" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Sungnam+%E3%81%A7%E3%81%99%E3%80%82;Computer+Science+Student;Building+Projects+One+Commit+at+a+Time;%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%AF%E3%80%81%E5%A5%BD%E3%81%8D%E3%81%A0%E3%80%82" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CLASS-Software%20Developer-7B2FFF?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/TITLE-Code%20Sorcerer-00E5FF?style=for-the-badge&logo=undertale&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-Probably%20Debugging-FF00A8?style=for-the-badge&logo=probot&logoColor=white"/>
+`[ SYSTEM ONLINE ]` &nbsp; ` [ DEVELOPER MODE ]` &nbsp; `[ ANIME MODE ]`
+
+<br/>
+
+<img src="https://img.shields.io/badge/CLASS-Developer-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTEREST-Japanese%20Anime-991B1B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-Building-374151?style=for-the-badge"/>
 
 <br/><br/>
 
-**「 世界を変えるのは、いつだってコードだ。 」**
+**「好きなものは、好きだと言えばいい。」**
 
-*The world can be changed by a single line of code.*
-
-`[ PRESS START TO COMPILE MY DESTINY ]`
+*Never be ashamed of what you love.*
 
 <br/>
 
-<a href="https://www.instagram.com/sungnam_pic/">
-<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://github.com/VIichan16">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/sungnam_pic/">
+<img src="https://img.shields.io/badge/Instagram-262626?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧬 01. CHARACTER PROFILE — キャラクター情報
+## 🗡️ 01. PROFILE — プロフィール
 
 ```yaml
 name: Sungnam
-alias: The Midnight Coder
-class: Software Developer
-level: Loading...
-guild: Computer Science Department
+class: Computer Science Student
+role: Aspiring Software Developer
 
-passive_skills:
-  - Infinite Curiosity
-  - Ctrl + Z Mastery
-  - Stack Overflow Summoning
-  - 3AM Debugging Instinct
+interests:
+  - Software Engineering
+  - Japanese Anime & Manga
+  - Photography
+  - Learning New Technologies
 
-special_abilities:
-  - Turning Coffee into Code
-  - Finding Bugs After Saying "It Works"
-  - Reading Error Messages Like Ancient Runes
-
-weaknesses:
-  - Infinite Loop of Anime Episodes
-  - One More Game Syndrome
-  - NullPointerException
-  - Waking Up Before Noon
+current_mission: Build something worth remembering
+motto: "Stay curious. Keep building."
 ```
 
-> 「俺のコードが……まだ本気を出していないだけだ。」
+> **「才能がないなら、努力すればいい。」**
 >
-> *My code just hasn't unleashed its true power yet.*
+> *If talent isn't enough, keep working.*
 
 ---
 
-## 🌌 02. MY MULTIVERSE — 興味のある世界
+## 🎌 02. ANIME ARCHIVE — 推しの記録
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="./images/marin.png" width="300" alt="Marin Kitagawa — My Dress-Up Darling"/>
 
-### 💻 CODE DIMENSION
+### 喜多川 海夢 — Marin Kitagawa
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react&theme=dark" />
+**MY DRESS-UP DARLING · その着せ替え人形は恋をする**
 
-**魔法属性：Logic & Creation**
+*One of my favorite characters.*
 
-`while (learning) { build(); }`
+<br/>
 
-</td>
-<td align="center" width="50%">
-
-### 🎮 OTAKU DIMENSION
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="Anime-style coding reaction GIF"/>
-
-**魔法属性：Imagination & Chaos**
-
-`if (episode.endsWith("final")) watchNext();`
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/ANIME-ENJOYER-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/2D%20WORLD-FOREVER-991B1B?style=flat-square"/>
 
 </div>
 
 ---
 
-## ⚔️ 03. TECHNICAL ARSENAL — 技術装備
+## ⚙️ 03. TECH STACK — 使用技術
 
 <div align="center">
 
-### 🪄 Magic Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,html,css,js&theme=dark"/>
 
-### 🧪 Summoning Circles
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=react,idea,vscode,git,github,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,idea,vscode,git,github,mysql&theme=dark"/>
 
-### 🎨 Creative Relics
+### Creative Tools
 
-<img src="https://skillicons.dev/icons?i=photoshop,ae&theme=dark" />
-
-<br/>
-
-| Attribute | Rank | Description |
-|:---:|:---:|:---|
-| Logic | `A` | Every problem has a solution |
-| Debugging | `B+` | Unless it's a missing semicolon |
-| Creativity | `S` | Ideas spawning at midnight |
-| Sleep Schedule | `F` | A legendary unsolved mystery |
-| Determination | `∞` | Compile until victory |
+<img src="https://skillicons.dev/icons?i=photoshop,ae&theme=dark"/>
 
 </div>
 
 ---
 
-## 📈 04. STATUS WINDOW — ステータス
+## 📊 04. GITHUB STATUS — 開発記録
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VIichan16&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VIichan16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIichan16&layout=compact&theme=synthwave&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VIichan16&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIichan16&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VIichan16&theme=matrix&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com?user=VIichan16&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🖥️ 05. SYSTEM LOG — 日常の記録
+## 🖥️ 05. SYSTEM LOG — 日常ログ
 
 ```text
-[00:00:01] Booting Sungnam.exe...
-[00:00:02] Loading anime database........ OK
-[00:00:03] Loading Java Runtime........... OK
-[00:00:04] Searching for a missing semicolon...
-[00:00:05] ERROR: Motivation.exe not found
-[00:00:06] Restarting with caffeine...
-[00:00:07] SUCCESS: New project initialized!
+[BOOT]       Initializing Sungnam.exe...
+[LOAD]       Loading development environment...
+[LOAD]       Initializing Java Runtime...
+[INFO]       Anime database synchronized.
+[INFO]       New project detected.
+[BUILD]      Compiling ideas into reality...
+[STATUS]     Still learning. Still improving.
 
-> Current objective: Become a better developer.
-> Side quest: Watch just one more episode.
-> Warning: Side quest may never terminate.
+> Objective: Become a skilled developer.
+> Secondary objective: Discover more anime.
+> Priority: Keep moving forward.
 ```
 
 ---
 
-## 🖤 06. THE DEVELOPER'S CREED — 開発者の誓い
+## 🏯 06. DEVELOPER'S CODE — 信念
 
 <div align="center">
 
-> **「コードを書くことは、存在しない世界を創造すること。」**
+**「昨日の自分を超えていけ。」**
 
-*Writing code means creating a world that never existed.*
-
-<br/>
-
-**No bugs, no glory.**
-
-**No commits, no progress.**
-
-**No anime, no mana.**
+*Become better than you were yesterday.*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1500&color=BD93F9&center=true&vCenter=true&width=600&lines=May+your+builds+always+succeed.;May+your+bugs+be+few+and+your+commits+many.;See+you+in+the+next+universe.+%E2%9C%A6" alt="Developer's Creed"/>
+`DISCIPLINE > MOTIVATION`
+
+`LEARN → BUILD → FAIL → REPEAT`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:30105E,100:0D1117&height=130&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=One+more+commit.;One+more+challenge.;One+step+closer+to+the+goal." alt="Developer Motto"/>
 
-**☆ Thanks for entering my universe ☆**
+<br/>
 
-`© Sungnam — The adventure is still compiling...`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:7F1D1D&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting. また会おう。**
+
+`© Sungnam | End of transmission.`
 
 </div>
