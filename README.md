@@ -44,7 +44,7 @@ role: Aspiring Software Developer
 
 interests:
   - Software Engineering
-  - Japanese Anime & Manga
+  - Japanese Anime
   - Photography
   - Learning New Technologies
 
