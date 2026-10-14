@@ -64,9 +64,9 @@ motto: "Stay curious. Keep building."
 
 <p align="center">
   <img
-    src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Marin_Kitagawa.png/250px-Marin_Kitagawa.png"
+    src="./images/marin.png"
     width="300"
-    alt="Marin Kitagawa"
+    alt="Marin Kitagawa — My Dress-Up Darling"
   />
 </p>
 ### 喜多川 海夢 — Marin Kitagawa
