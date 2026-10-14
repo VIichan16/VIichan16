@@ -64,12 +64,11 @@ motto: "Stay curious. Keep building."
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/VIichan16/VIichan16/main/images/marin.png"
+    src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Marin_Kitagawa.png/250px-Marin_Kitagawa.png"
     width="300"
-    alt="Marin Kitagawa — My Dress-Up Darling"
+    alt="Marin Kitagawa"
   />
 </p>
-
 ### 喜多川 海夢 — Marin Kitagawa
 
 **MY DRESS-UP DARLING · その着せ替え人形は恋をする**
