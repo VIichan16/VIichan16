@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://www.instagram.com/_sungnam/">
+<a href="https://www.instagram.com/sungnam_pic/">
   <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Continuous_Learning-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Continuous Learning"/>
