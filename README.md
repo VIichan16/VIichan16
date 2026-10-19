@@ -58,33 +58,7 @@ motto: "Stay curious. Keep building."
 
 ---
 
-## 🎌 02. ANIME ARCHIVE — 推しの記録
-
-<div align="center">
-
-<p align="center">
-  <img
-    src="./images/marin.png"
-    width="300"
-    alt="Marin Kitagawa — My Dress-Up Darling"
-  />
-</p>
-### 喜多川 海夢 — Marin Kitagawa
-
-**MY DRESS-UP DARLING · その着せ替え人形は恋をする**
-
-*One of my favorite characters.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/ANIME-ENJOYER-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/2D%20WORLD-FOREVER-991B1B?style=flat-square"/>
-
-</div>
-
----
-
-## ⚙️ 03. TECH STACK — 使用技術
+## ⚙️ 02. TECH STACK — 使用技術
 
 <div align="center">
 
@@ -104,7 +78,7 @@ motto: "Stay curious. Keep building."
 
 ---
 
-## 📊 04. GITHUB STATUS — 開発記録
+## 📊 03. GITHUB STATUS — 開発記録
 
 <div align="center">
 
@@ -120,7 +94,7 @@ motto: "Stay curious. Keep building."
 
 ---
 
-## 🖥️ 05. SYSTEM LOG — 日常ログ
+## 🖥️ 04. SYSTEM LOG — 日常ログ
 
 ```text
 [BOOT]       Initializing Sungnam.exe...
@@ -138,7 +112,7 @@ motto: "Stay curious. Keep building."
 
 ---
 
-## 🏯 06. DEVELOPER'S CODE — 信念
+## 🏯 05. DEVELOPER'S CODE — 信念
 
 <div align="center">
 
